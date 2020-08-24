@@ -1,4 +1,4 @@
-# Daily Code Practice & Interview Question Review
+# Daily Interview Question Reviews
 
 Sources include:
 
