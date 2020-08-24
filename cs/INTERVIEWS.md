@@ -6,7 +6,7 @@
 
 # Interview Questions: Computer Science Edition <!-- omit in toc -->
 
-> \_Sourced from:
+> Sourced from:
 >
 > - https://www.fullstack.cafe/code%20problems
 > - https://www.fullstack.cafe/data%20structures

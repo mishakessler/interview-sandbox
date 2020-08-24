@@ -6,7 +6,7 @@
 
 # Interview Questions: HTML Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/html
 
 - [Entry Level](#Entry-Level)

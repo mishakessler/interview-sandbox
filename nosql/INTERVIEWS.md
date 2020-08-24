@@ -6,7 +6,7 @@
 
 # Interview Questions: NoSql Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/nosql
 
 - [Entry Level](#Entry-Level)

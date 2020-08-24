@@ -6,7 +6,7 @@
 
 # Interview Questions: PWAs Edition <!-- omit in toc -->
 
-> \_Sourced from: https://www.fullstack.cafe/pwa
+> Sourced from: https://www.fullstack.cafe/pwa
 
 - [Entry Level](#Entry-Level)
 - [Junior Level](#Junior-Level)

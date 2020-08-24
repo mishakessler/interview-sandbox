@@ -6,7 +6,7 @@
 
 # Interview Questions: Rails Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/rails
 
 - [Entry Level](#Entry-Level)

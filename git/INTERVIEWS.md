@@ -6,7 +6,7 @@
 
 # Interview Questions: Git Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/git
 
 - [Entry Level](#Entry-Level)

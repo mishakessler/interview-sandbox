@@ -6,7 +6,7 @@
 
 # Interview Questions: OOP Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/OOP
 
 - [Entry Level](#Entry-Level)

@@ -6,7 +6,7 @@
 
 # Interview Questions: SQL Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/sql
 
 - [Entry Level](#Entry-Level)

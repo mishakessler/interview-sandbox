@@ -6,7 +6,7 @@
 
 # Interview Questions: Python Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/python
 
 - [Entry Level](#Entry-Level)

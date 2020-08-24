@@ -6,7 +6,8 @@
 
 # Interview Questions: Microservices Edition <!-- omit in toc -->
 
-> \_Sourced from: https://www.fullstack.cafe/microservices
+> Sourced from:
+> - https://www.fullstack.cafe/microservices
 
 - [Entry Level](#Entry-Level)
 - [Junior Level](#Junior-Level)

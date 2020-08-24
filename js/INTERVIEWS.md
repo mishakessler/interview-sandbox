@@ -6,7 +6,7 @@
 
 # Interview Questions: JavaScript Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/javascript
 
 - [Entry Level](#Entry-Level)

@@ -6,7 +6,7 @@
 
 # Interview Questions: UX/UI Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/ux
 
 - [Entry Level](#Entry-Level)

@@ -6,7 +6,8 @@
 
 # Interview Questions: Gatsby Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
+> - Link
 
 - [Entry Level](#Entry-Level)
 - [Junior Level](#Junior-Level)

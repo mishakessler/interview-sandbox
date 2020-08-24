@@ -6,7 +6,7 @@
 
 # Interview Questions: React.js Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/react
 > - https://github.com/mishakessler/reactjs-interview-questions
 > - https://github.com/mishakessler/interviewing

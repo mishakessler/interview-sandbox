@@ -6,7 +6,7 @@
 
 # Interview Questions: Ruby Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/ruby
 
 - [Entry Level](#Entry-Level)

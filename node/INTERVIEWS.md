@@ -6,7 +6,7 @@
 
 # Interview Questions: Node.js Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/node.js
 
 - [Entry Level](#Entry-Level)

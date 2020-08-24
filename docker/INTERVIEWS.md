@@ -6,7 +6,8 @@
 
 # Interview Questions: Docker Edition <!-- omit in toc -->
 
-> \_Sourced from: https://www.fullstack.cafe/docker
+> Sourced from:
+> - https://www.fullstack.cafe/docker
 
 - [Entry Level](#Entry-Level)
 - [Junior Level](#Junior-Level)

@@ -6,7 +6,7 @@
 
 # Interview Questions: Agile & Scrum Edition <!-- omit in toc -->
 
-> \_Sourced from: https://www.fullstack.cafe/agile
+> Sourced from: https://www.fullstack.cafe/agile
 
 - [Entry Level](#Entry-Level)
 - [Junior Level](#Junior-Level)

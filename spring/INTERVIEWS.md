@@ -6,7 +6,7 @@
 
 # Interview Questions: Spring Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/spring
 
 - [Entry Level](#Entry-Level)

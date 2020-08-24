@@ -6,7 +6,7 @@
 
 # Interview Questions: CSS Edition <!-- omit in toc -->
 
-> _Sourced from:
+> Sourced from:
 > - https://www.fullstack.cafe/CSS
 
 - [Entry Level](#Entry-Level)
