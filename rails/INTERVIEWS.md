@@ -4,10 +4,10 @@
 </details>
 -->
 
-# Interview Questions: JavaScript Edition <!-- omit in toc -->
+# Interview Questions: Rails Edition <!-- omit in toc -->
 
 > _Sourced from:
-> - https://www.fullstack.cafe/javascript
+> - https://www.fullstack.cafe/rails
 
 - [Entry Level](#Entry-Level)
 - [Junior Level](#Junior-Level)

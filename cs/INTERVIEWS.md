@@ -6,7 +6,12 @@
 
 # Interview Questions: Computer Science Edition <!-- omit in toc -->
 
-_Sourced from: https://www.fullstack.cafe/code%20problems_
+> \_Sourced from:
+>
+> - https://www.fullstack.cafe/code%20problems
+> - https://www.fullstack.cafe/data%20structures
+> - https://github.com/mishakessler/interviewing
+> -
 
 - [Entry Level](#Entry-Level)
 - [Junior Level](#Junior-Level)

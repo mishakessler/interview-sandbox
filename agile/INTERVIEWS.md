@@ -4,12 +4,9 @@
 </details>
 -->
 
-# Interview Questions: React.js Edition <!-- omit in toc -->
+# Interview Questions: Agile & Scrum Edition <!-- omit in toc -->
 
-> _Sourced from:
-> - https://www.fullstack.cafe/react
-> - https://github.com/mishakessler/reactjs-interview-questions
-> - https://github.com/mishakessler/interviewing
+> \_Sourced from: https://www.fullstack.cafe/agile
 
 - [Entry Level](#Entry-Level)
 - [Junior Level](#Junior-Level)
