@@ -74,6 +74,10 @@ Git is a Distributed Version Control System, or DVCS. Git tracks changes to file
 ## Senior Level
 
 <details>
+<summary>When you receive the error `fatal: refusing to merge unrelated histories`, why might you be getting this error? How would you resolve it?</summary>
+</details>
+
+<details>
 <summary>How would you undo committed changes?</summary>
 </details>
 
