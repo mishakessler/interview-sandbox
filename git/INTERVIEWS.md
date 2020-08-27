@@ -26,7 +26,13 @@ Git is a Distributed Version Control System, or DVCS. Git tracks changes to file
 </details>
 
 <details>
-<summary>What are the terminal commands for adding, committing, pushing, and pulling? </summary>
+<summary>What are the terminal commands for adding, committing, pushing, and pulling?</summary>
+
+1. `git add [filename]` or `git add .`
+1. `git commit -m "[commit message in present tense imperative]"`
+1. `git push` to default to `origin master`, else, `git push [remote destination] [branch]`
+1. `git pull` similarly will default to `origin master`.
+
 </details>
 
 ## Junior Level
