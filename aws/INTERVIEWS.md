@@ -6,14 +6,13 @@
 
 # Interview Questions: AWS Edition <!-- omit in toc -->
 
-> Sourced from:
-> - https://www.fullstack.cafe/aws
+> Sourced from: https://www.fullstack.cafe/aws
 
-- [Entry Level](#Entry-Level)
-- [Junior Level](#Junior-Level)
-- [Mid Level](#Mid-Level)
-- [Senior Level](#Senior-Level)
-- [Expert Level](#Expert-Level)
+- [Entry Level](#entry-level)
+- [Junior Level](#junior-level)
+- [Mid Level](#mid-level)
+- [Senior Level](#senior-level)
+- [Expert Level](#expert-level)
 
 ## Entry Level
 

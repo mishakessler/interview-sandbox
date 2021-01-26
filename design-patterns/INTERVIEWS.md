@@ -4,14 +4,9 @@
 </details>
 -->
 
-# Interview Questions: Computer Science Edition <!-- omit in toc -->
+# Interview Questions: Design Patterns Edition <!-- omit in toc -->
 
-> Sourced from:
->
-> - https://www.fullstack.cafe/code%20problems
-> - https://www.fullstack.cafe/data%20structures
-> - https://github.com/mishakessler/interviewing
-> 
+> Sourced from: hhttps://www.fullstack.cafe/interview-questions/design-patterns
 
 - [Entry Level](#entry-level)
 - [Junior Level](#junior-level)
@@ -20,6 +15,14 @@
 - [Expert Level](#expert-level)
 
 ## Entry Level
+
+
+<details>
+<summary>What is the MVC?</summary>
+
+The Model-View-Controller 
+
+</details>
 
 ## Junior Level
 
