@@ -20,7 +20,7 @@
 <details>
 <summary>What is the MVC?</summary>
 
-The Model-View-Controller 
+The Model-View-Controller
 
 </details>
 
